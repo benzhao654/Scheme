@@ -1,8 +1,8 @@
 # Scheme
 Final project for Berkeley CS 61A: Structure and Interpretation of Computer Programs, taken during summer 2021
 
-Interpreter for a subset of the Scheme language, built using python
-To start an active interpreter session, run scheme.py
+Interpreter for a subset of the Scheme language, built using python<br />
+To start an active interpreter session, run scheme.py<br />
 scheme.py can also take in an input file by passing the file name as a command line argument: "python3 scheme.py tests.scm"
 
 File Descriptions: <br />
